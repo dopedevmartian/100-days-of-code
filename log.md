@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 1 2020
+### Day 0: June 1 2020 Monday
 ##### (Linked Git account to Atom for ease of logging)
 
 **Today's Progress**: Basic HTML and HTML5: Introduction to HTML5 Elements.
@@ -11,22 +11,26 @@ Overall I am 39% complete with Html5
 
 **Link to work:** N/A
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 2 2020 Tuesday
+##### (continuing HTML5)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Basic HTML and HTML5: Nest an Anchor Element within a Paragraph
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: <a
+   href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+</a>
+**This was a bit challenging as I thought the "a" anchor point was supposed to be formatted <a> ...</a>
+**In this example we have " <a href="#"> ..........</a> I need to work on this a bit more to understand the attribute format
+** I ended todays code on FreeCodeCamp.org at 67% Basic HTML and HTML5: Create a Form Element
+** Ill pick up there tomorrow and complete that chapter :)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 3 2020 Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
