@@ -29,8 +29,22 @@ Overall I am 39% complete with Html5
 
 ### Day 3: June 3 2020 Wednesday
 
-**Today's Progress**:
+**Today's Progress**:I completed Basic HTML and Html5 // The next section is Basic CSS which I will start tomorrow
+
+**Thoughts** I had a little trouble wrapping labels for buttons in form elements and knowing the exact way to enclose or use self enclosing.  I did manage with some trial and error to get the jist of it after a while. My logic is that if an element has an attribute associated with it it needs self closure and then continuation to the next attribute >
+So I would say today was a good day to complete all 28 sections in three days.
+The entire course is called Responsive Web Design Certification.  Thats awesome and I hope to crush it
+I am going to start a notebook file in order to keep the things I learn along the way and not forget them.
+
+**Link(s) to work**: https://www.freecodecamp.org/learn
+
+
+### Day 3: June 3 2020 Wednesday
+
+**Today's Progress**
+
 
 **Thoughts**
+
 
 **Link(s) to work**
