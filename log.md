@@ -39,12 +39,16 @@ I am going to start a notebook file in order to keep the things I learn along th
 **Link(s) to work**: https://www.freecodecamp.org/learn
 
 
-### Day 3: June 3 2020 Wednesday
+### Day 4: June 4 2020 Thursday
 
-**Today's Progress**
-
+**Today's Progress**: I worked on LearnPythonTheHardWay today
+Exercise 14 and 15
+This dealt with making a variable prompt - prompt=">"
+Also with arguments and input from the user
+And lastly Reading Files into a program
 
 **Thoughts**
+Pretty straightforward today typing the exercies and breaking them down as well as manpulating them for different outputs
 
+**Link(s) to work**https://read.amazon.com/ref=kcr_app_surl_cloudreader
 
-**Link(s) to work**
