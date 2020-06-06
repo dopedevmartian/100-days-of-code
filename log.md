@@ -52,3 +52,19 @@ Pretty straightforward today typing the exercies and breaking them down as well 
 
 **Link(s) to work**https://read.amazon.com/ref=kcr_app_surl_cloudreader
 
+### Day 5: June 5 2020 Friday
+
+**Today's Progress**: I worked on FreeCodeCamp today
+Started Introduction to Basic CSS
+
+**Thoughts**
+Today CSS made a lot of sense
+basically adding a style block/ container to house all the CSS stylings in classes I create to they can be used multiple times
+a class is defined as . and some name ex// .thomas-is-cool is a class then the class definition is housed in adjacent {}
+thomas-is-cool can be applied to any html element by adding it appropriately
+
+I completed 10 of 44 sections
+ending with Adding Borders around Your ElementsI will pickup there tomorrow.
+
+**Link(s) to work**
+http://www.freecodecamp.org/learn
