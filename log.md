@@ -68,3 +68,32 @@ ending with Adding Borders around Your ElementsI will pickup there tomorrow.
 
 **Link(s) to work**
 http://www.freecodecamp.org/learn
+
+### Day 6: June 6 2020 Saturday
+
+**Today's Progress**: I worked on FreeCodeCamp today
+Started Basic CSS: Add Rounded Corners with border-radius
+
+**Thoughts**
+There were some easy concepts and a few ne ones like media breakpoints and html varriables
+--variablename- : value
+ the :root declaration was new but I do like classes and variables and the fact that this course gives you the language and examples
+I need to go over each one again and supplement my notes and I need to find a way to practice on using what Im thinking of taking another day of the week to work on applying the principles I learned to my own little project
+Other than that I completed basic CSS and I am moving on to APPLIED VISUAL Design
+Sounds big time :)
+Maybe later tonight when everyone is alseep Ill do some python too.
+
+
+**Link(s) to work**
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+
+
+### Day 7: June 7 2020 Sunday
+
+**Today's Progress**: Beginning
+
+**Thoughts**
+
+
+
+**Link(s) to work**

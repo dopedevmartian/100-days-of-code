@@ -36,3 +36,7 @@ width is a CSS property
 
 ##BORDERs##
 CSS BORDERS:
+
+in the syyle elements
+you always specify classes with a .
+and you always speficy id's with a #
