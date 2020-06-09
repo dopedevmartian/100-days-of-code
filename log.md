@@ -138,3 +138,16 @@ And lastly just applying tags in stype for all elements or wrapped in the p elem
     </div>
   </div>
 </div>
+
+
+### Day 8: June 8 2020 Monday
+
+**Today's Progress**: Completed Applied Visual Design
+
+**Thoughts**
+There was a lot of animation for t his lesson and a lot of it wa s over my head.  I will need to go back top the introduction of some elements and classes to solidify those concepts and then tale my time with any animation classes within the DOM
+But overall @keyframes seemed straighforward, just no the div od a rectanble or shape that housed an animation.
+K later man
+
+
+**Link(s) to work** Sample of the last page of coding :)
