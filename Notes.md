@@ -75,3 +75,7 @@ These pseudo-elements :: are used to add something before or after a selected el
   top: -50px;
   left: 5px;
 }
+***************************
+***************************
+When elements have a specified position, such as fixed or relative, the CSS offset properties right, left, top, and bottom can be used in animation rules to create movement.
+tha ts all folks for today :)
