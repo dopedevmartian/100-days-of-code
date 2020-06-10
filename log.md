@@ -151,3 +151,24 @@ K later man
 
 
 **Link(s) to work** Sample of the last page of coding :)
+
+
+### Day 9: June 8 2020 Tuesday
+
+***Today's Progress ***: LearnPythonTheHardWay
+I worked on reading files again today
+ Bringing in files with sys argv and input upon runing the script
+ unpacking that information to the argv variable
+ then opening the file object for Reading
+ then reading and printing the contents to the console
+ also reading the file a second time from userinput of a file filename
+ LAstly closing the open Files close()
+ What needs to happen is  ""<filename>.close()"
+ I Initially thought to do "<close(<filename>)" incorrect :)
+ So definitely learned or brought to my memory the correct way to call a method or pass a function action to
+ a file.  I need to work on the input method with this exercise / study drill tomorrow!!
+
+^^ THOUGHTS ^^:  REally good slow methodical work today
+Kindle app with the book on the big screen
+ and atom and python on the laptop screen in multiple desktops works pretty well :)
+ Later creator
