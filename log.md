@@ -172,3 +172,12 @@ I worked on reading files again today
 Kindle app with the book on the big screen
  and atom and python on the laptop screen in multiple desktops works pretty well :)
  Later creator
+
+ ### Day 10: June 10 2020 Wednesday
+ ##### (continuing) LearnPythonTheHardWay ######
+
+ **Today's Progress**: ex 16
+
+ **Thoughts**: readinh and writing ti Filesstudy drills up next
+
+ **Link(s) to work**:
