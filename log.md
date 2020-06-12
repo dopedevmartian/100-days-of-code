@@ -1,15 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 1 2020 Monday
-##### (Linked Git account to Atom for ease of logging)
-
-**Today's Progress**: Basic HTML and HTML5: Introduction to HTML5 Elements.
-
-**Thoughts:** I struggled a bit with the internal <a> element ref# and its id="" but I figured out where it fits within the referenced id tag.  ill want to go over that again before starting
-Basic HTML and HTML5: Nest an Anchor Element within a Paragraph.
-Overall I am 39% complete with Html5
-
-**Link to work:** N/A
 
 ### Day 1: June 2 2020 Tuesday
 ##### (continuing HTML5)
@@ -178,6 +168,21 @@ Kindle app with the book on the big screen
 
  **Today's Progress**: ex 16
 
- **Thoughts**: readinh and writing ti Filesstudy drills up next
+ **Thoughts**: reading and writing ti Files study drills up next
 
  **Link(s) to work**:
+
+
+ ### Day 11: June 11 2020 Thursday ####
+
+ **Today's Progress**: learn python the LearnPythonTheHardWay
+
+ **Thoughts:** Today I slowed down and read the chapter 16 and 17 carefully
+ Not only doing the exercise and seeing the output
+ but supposing alternate solutions and implementing them in extra work to see the result
+ If the result wasnt what I expected I kept making adjustments until I found what the problem was
+ from there I proved or disproved my assumptions
+ I made two dry erase blocks in order to write down current programming concepts
+ and have them visible to study.
+
+ **Link to work:** N/A
